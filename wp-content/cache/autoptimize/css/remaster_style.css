@@ -434,3 +434,13 @@ a.review-item-read-more:after {
   top: 50%;
   margin-top: -3px;
 }
+
+/* single-header */
+
+.single-header,
+.default-header {
+  background-image: url('/superuploads/images/single-bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}

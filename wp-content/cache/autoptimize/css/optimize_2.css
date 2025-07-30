@@ -4428,7 +4428,7 @@ html .ui-button.ui-state-disabled:active {
 }
 .single-header,
 .default-header {
-  background-image: url(//amstroj.com/wp-content/themes/super_dom/images/single-bg.jpg);
+  background-image: url('/superuploads/images/single-bg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
